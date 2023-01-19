@@ -91,7 +91,7 @@ sidebar = html.Div(
    [
        html.Div(
            [
-               html.H2("ALCON", style={"color": "#288BA8"}),
+               html.H2("TENSOR", style={"color": "#288BA8"}),
            ],
            className="sidebar-header",
        ),
